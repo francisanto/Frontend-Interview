@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Future of Fintech",
+      "category": "FINANCE",
+      "description": "Exploring how AI and blockchain are reshaping financial services and what it means for the accounting profession",
+      "date": "2 days ago",
+      "tag": "Featured",
+      "coverImage": "https://placehold.co/800x400/6366f1/white?text=Future+of+Fintech",
+      "content": "The fintech revolution is transforming the financial landscape. With AI-powered analytics and blockchain technology, traditional accounting practices are evolving rapidly. This article explores the key trends and what CA professionals need to know to stay ahead."
+    },
+    {
+      "id": 2,
+      "title": "Ace Your CA Finals",
+      "category": "CAREER",
+      "description": "Strategies and study plans to help you clear your exams in the first attempt without burning out",
+      "date": "5 hours ago",
+      "tag": "Study Tips",
+      "coverImage": "https://placehold.co/800x400/10b981/white?text=Ace+Your+CA+Finals",
+      "content": "Preparing for CA finals can be overwhelming, but with the right strategy and time management, success is within reach. This comprehensive guide covers proven study techniques, time management tips, and mental wellness strategies to help you excel in your CA finals."
+    },
+    {
+      "id": 3,
+      "title": "Understanding Tax Reforms",
+      "category": "REGULATIONS",
+      "description": "A comprehensive breakdown of the new tax laws introduced this fiscal year and their implications",
+      "date": "1 week ago",
+      "tag": "Trending",
+      "coverImage": "https://placehold.co/800x400/f59e0b/white?text=Understanding+Tax+Reforms",
+      "content": "The latest tax reforms have introduced significant changes that affect both individuals and businesses. This article provides a detailed analysis of the new regulations, compliance requirements, and strategies to optimize tax planning under the new framework."
+    }
+  ]
+}
